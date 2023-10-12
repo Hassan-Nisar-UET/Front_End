@@ -1,0 +1,49 @@
+{
+  "students": [
+    {
+      "Fname": "Hassan ",
+      "Lname": "Nisar ",
+      "email": "hassan111@gmail.com",
+      "password": "abc123",
+      "Cpassword": "abc123",
+      "Cbox": "",
+      "id": 1
+    },
+    {
+      "Fname": "ali",
+      "Lname": "king",
+      "email": "ali123@gmail.com",
+      "password": "abc123",
+      "Cpassword": "abc123",
+      "Cbox": false,
+      "id": 2
+    },
+    {
+      "Fname": "balu",
+      "Lname": "uni",
+      "email": "balu123@gmail.com",
+      "password": "balu123",
+      "Cpassword": "balu123",
+      "Cbox": "",
+      "id": 3
+    },
+    {
+      "Fname": "peter",
+      "Lname": "son",
+      "email": "qwer",
+      "password": "1134",
+      "Cpassword": "1234",
+      "Cbox": true,
+      "id": 4
+    },
+    {
+      "Fname": "haseeb",
+      "Lname": "zahid",
+      "email": "haseeb123@gmail.com",
+      "password": "kuchi",
+      "Cpassword": "kuchi",
+      "Cbox": "",
+      "id": 5
+    }
+  ]
+}
